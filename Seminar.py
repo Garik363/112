@@ -49,9 +49,9 @@
 # 3 2 4 -> yes
 # 3 2 1 -> no
 
-n = int(input("Введите 1-ю сторону: "))
-m= int(input("Введите 2-ю сторону: "))
-k=int(input("Введите количество долек: "))
-if k<m*n and (k%m == 0 or k%n == 0):
-    print("Yes")
-else: print("No")
+# n = int(input("Введите 1-ю сторону: "))
+# m= int(input("Введите 2-ю сторону: "))
+# k=int(input("Введите количество долек: "))
+# if k<m*n and (k%m == 0 or k%n == 0):
+#     print("Yes")
+# else: print("No")
